@@ -2,3 +2,5 @@
 - references
     - [SMILES記法は化学構造の線形表記法 | 化学の新しいカタチ](https://future-chem.com/smiles-smarts/)
     - [RDKit環境構築を行いjupyter-notebookでベンゼンを表示させる - Qiita](https://qiita.com/yuto_ohno/items/4f5b58978235c35fbe7e)
+    - [RDKit Cookbook — The RDKit 2019.09.1 documentation](https://www.rdkit.org/docs/Cookbook.html#neutralizing-charged-molecules)
+    - [Mishima-syk/py4chemoinformatics: Python for chemoinformatics](https://github.com/Mishima-syk/py4chemoinformatics)
