@@ -3,3 +3,4 @@ sdf/
 rxn/
 mylib/
 .ipynb_checkpoints/
+.DS_Store
